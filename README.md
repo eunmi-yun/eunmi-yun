@@ -1,6 +1,5 @@
 # eunmi-yun Github
 > 안녕하세요, 윤은미입니다.
 
-[![eunmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunmi-yun)](https://github.com/eunmi-yun/eunmi-yun)
+[![eunmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunmi-yun)](https://github.com/eunmi-yun/eunmi-yun)&show_icons=true&theme=cobalt)
 
-![eunmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunmi-yun)&show_icons=true&theme=cobalt)
