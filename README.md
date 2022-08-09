@@ -5,4 +5,4 @@
 
 ![eunmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunmi_yun&show_icons=true)
 
-![eunmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunmi_yun&show_icons=true&theme=radical)
+![eunmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunmi_yun&show_icons=true&theme=cobalt)
